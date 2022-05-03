@@ -1,17 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 15 04:28:53 2018
 
-@author: dillu
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 15 01:11:32 2018
-
-@author: dillu
+@author: abhi
 """
 
 import numpy as np
